@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lesson4</string>
+    <string name="edit_text">name</string>
+    <string name="start_name_btn">Start_name</string>
+    <string name="age_edit">age</string>
+    <string name="factorial_edit">factorial</string>
+    <string name="start_fac_btn">start_fac</string>
+</resources>
